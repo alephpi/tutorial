@@ -1,0 +1,9 @@
+{
+    "name": "js_debugger",
+    "version": "1.0.0",
+    "description": "最小JavaScript调试示例",
+    "type": "commonjs",
+    "dependencies": {
+        "katex": "^0.16.22"
+  }
+}

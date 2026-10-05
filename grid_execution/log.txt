@@ -1,0 +1,8 @@
+first string Voxceleb1o, second string origin, concatenated string Voxceleb1oorigin
+first string Voxceleb1o, second string car, concatenated string Voxceleb1ocar
+first string Voxceleb1o, second string meeting_room, concatenated string Voxceleb1omeeting_room
+first string Voxceleb1o, second string theater, concatenated string Voxceleb1otheater
+first string CNCeleb, second string origin, concatenated string CNCeleborigin
+first string CNCeleb, second string car, concatenated string CNCelebcar
+first string CNCeleb, second string meeting_room, concatenated string CNCelebmeeting_room
+first string CNCeleb, second string theater, concatenated string CNCelebtheater
